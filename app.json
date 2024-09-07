@@ -1,0 +1,9 @@
+{
+  "name": "MusicAppV2",
+  "displayName": "MusicAppV2",
+  "expo": {
+    "plugins": [
+      "expo-linear-gradient"
+    ]
+  }
+}
